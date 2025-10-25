@@ -2,10 +2,12 @@
     #app
         NuxtPage
 </template>
+
 <script>
 const el = document.querySelector('html')
 el.classList.toggle('is-dark')
 </script>
+
 <style lang="sass">
 @import 'primeicons/primeicons.css'
 @font-face
@@ -22,6 +24,7 @@ el.classList.toggle('is-dark')
     font-family: 'Daytona'
     font-style: italic
     src: url('/font/DaytonaPro-BoldItalic.woff2') format('woff2')
+    
 $code-r: #e83243
 $code-o: #ffb32c
 $code-y: #f3ef79

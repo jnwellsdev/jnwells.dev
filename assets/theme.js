@@ -1,16 +1,7 @@
 import { definePreset } from '@primevue/themes';
 import Lara from '@primevue/themes/lara';
 import { palette } from '@primevue/themes';
-import card from '@primevue/themes/lara/card';
-// custom color
-// $code-r: #e83243
-// $code-o: #ffb32c
-// $code-y: #f3ef79
-// $code-g: #5af78e
-// $code-b: #9aedeb
-// $code-black: #202430
-// $code-grey: #2b303f
-// $code-white: #eff0eb
+
 const codeR = palette('#e83243');
 const codeO = palette('#ffb32c');
 const codeY = palette('#f3ef79');

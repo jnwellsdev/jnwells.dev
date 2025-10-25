@@ -94,7 +94,6 @@ const showToast = () => {
 const codeFocus = () =>
 	document.querySelectorAll('.p-inputotp-input')[0].focus()
 
-// const clickResume = (e) => e.target.nodeName !== 'tspan' && e.target.nodeName !== 'svg' && store.setResume(true)
 const clickResume = () => store.setResume(!store.resume)
 
 const handleLink = (val) =>
@@ -300,7 +299,6 @@ main
 			border-color: var(--p-gray-400) !important
 		.p-card
 			width: 49%
-			// padding: 1.5rem
 			@media (max-width: 880px)
 				width: 96%
 				margin-bottom: 0 !important
