@@ -1,0 +1,35 @@
+# Nuxt dev/build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
+
+# Node dependencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+#share
+gsap-bonus.tgz
+tsconfig.json
+package-lock.json
+/dist
+/pages/2024.vue
+/pages/2025.vue
+/pages/test.vue
+/pages/pplussho.vue
+/public
+/server

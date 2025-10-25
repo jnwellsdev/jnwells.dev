@@ -1,0 +1,94 @@
+dev:
+  intro: "<span style='color: var(--p-yellow-500);font-style: italic'>Creative Developer</span> specializing in <span style='color: var(--p-orange-500)'>JavaScript</span>, <span style='color: var(--p-green-500)'>Web Development</span> and <span style='color: var(--p-blue-500)'>Digital Design</span>. <br>Based in Brooklyn NY with 10+ years of professional experience."
+  recent: "Recent <span style='color: var(--p-yellow-500);font-style: italic'>Creative Development</span> work including interactive games and user experiences created for clients including Comcast, NBC, ABC, Showtime and Hulu.<br><br><small style='color:var(--p-slate-500)'>Contains Proprietary Works. May require password.</small>"
+  previous: "Previous <span style='color: var(--p-yellow-500);font-style: italic'>Web and Digital Design</span> work including small business websites, administration dashboards, branding, identity, print, apparel, and web animations.<br><br><small style='color:var(--p-slate-500)'>My Previous Portfolio.</small>"
+  recentWork: "Recent <span style='color: var(--p-yellow-500);font-style: italic'>Creative Development</span> work including interactive games and user experiences created for clients including Comcast, NBC, ABC, Showtime and Hulu."
+  previousWork: "Previous <span style='color: var(--p-yellow-500);font-style: italic'>Web and Digital Design</span> work including small business websites, administration dashboards, branding, identity, print, apparel, and web animations."
+design:
+  intro: "<span style='font-style: italic'>Hey</span>, I am a <span style='color: var(--p-yellow-500);font-style: italic'>Digital Designer</span> with a passion for <span style='color: var(--p-blue-500)'>Interactive Design</span>, <span style='color: var(--p-blue-500)'>Web Animation</span> and <span style='color: var(--p-green-500)'>Creative Developement</span>. I am based in Brooklyn NY with 10+ years of professional experience."
+  recent: "Recent <span style='color: var(--p-yellow-500);font-style: italic'>Design and Development</span> work including interactive games and user experiences created for clients including Comcast, NBC, ABC, Showtime and Hulu.<br><br><small style='color:var(--p-slate-500)'>Contains Proprietary Works. May require password.</small>"
+  previous: "Previous <span style='color: var(--p-yellow-500);font-style: italic'>Design and Development</span> work including small business websites, administration dashboards, branding, identity, print, apparel, and web animations.<br><br><small style='color:var(--p-slate-500)'>My Previous Portfolio.</small>"
+  recentWork: "Recent <span style='color: var(--p-yellow-500);font-style: italic'>Design and Development</span> work including interactive games and user experiences created for clients including Comcast, NBC, ABC, Showtime and Hulu."
+  previousWork: "Previous <span style='color: var(--p-yellow-500);font-style: italic'>Design and Development</span> work including small business websites, administration dashboards, branding, identity, print, apparel, and web animations. "
+work:
+  - id: '01'
+    title: xfinity demo
+    link: 'demo01.jnwells.dev'
+  - id: '02'
+    title: comcast demo
+    link: 'demo02.jessewells.dev'
+  - id: '24'
+    title: comcast demo
+    link: 'demo24.jnwells.dev'
+  - id: '03'
+    title: comcast demo
+    link: 'demo03.jnwells.dev'
+  - id: '15'
+    title: abc banner
+    link: 'demo15.jessewells.dev/abc/wed'
+  - id: '17'
+    title: tourism site
+    link: 'demo16.jnwells.dev'
+  - id: '18'
+    title: recruitment site
+    link: 'joinbaltimorecountypd.com'
+  - id: '25'
+    title: renegade site
+    link: 'renegadecommunications.com'
+  - id: '19'
+    title: rebate site
+    link: 'demo19.jessewells.dev'
+  - id: '09'
+    title: promo demo
+    link: 'demo09.jnwells.dev'
+  - id: '13'
+    title: comcast demo
+    link: 'demo13.jessewells.dev'
+  - id: '14'
+    title: cutler demo
+    link: 'demo14.jnwells.dev'
+  - id: '21'
+    title: subaru site
+    link: 'demo21.jnwells.dev'
+  - id: '22'
+    title: snippets app
+    link: 'demo22.jnwells.dev'
+  - id: '16'
+    title: abc banner thurs
+    link: 'demo15.jessewells.dev/abc/thurs'
+  - id: '23'
+    title: showtime demo
+    link: 'demo23.jnwells.dev'
+  - id: '20'
+    title: paramount+ design
+    link: 'jnwells.dev/pplussho'
+  - id: '05'
+    title: showtime demo
+    link: 'demo05.jnwells.dev'
+  - id: '06'
+    title: showtime demo
+    link: 'demo06.jessewells.dev'
+  - id: '07'
+    title: showtime demo
+    link: 'demo07.jessewells.dev'
+  - id: '08'
+    title: showtime demo
+    link: 'demo08.jnwells.dev'
+  - id: '11'
+    title: promo demo
+    link: 'demo11.jessewells.dev'
+  - id: '12'
+    title: sing2 demo
+    link: 'demo12.jessewells.dev'
+  - id: '10'
+    title: promo demo
+    link: 'demo10.jnwells.dev'
+  - id: '22'
+    title: snippets app
+    link: 'demo22.jnwells.dev'
+  - id: '23'
+    title: showtime demo
+    link: 'demo23.jnwells.dev'
+  - id: '04'
+    title: comcast demo
+    link: 'demo04.jnwells.dev'
